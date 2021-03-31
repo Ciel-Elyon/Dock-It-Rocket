@@ -1,0 +1,10 @@
+Arts:
+    Planet sprite: https://www.deviantart.com/fidgetwidget/art/Rock-Planet-Sprite-185446848
+    Landing platform sprite: https://pixelworlds.fandom.com/wiki/Metal_Platform
+    Asteroid sprite: 
+    Fuel can sprite: 
+
+Sounds:
+    Landing/impact sounds: soundsnap.com
+    Explosion sound:
+    Engine sound:
